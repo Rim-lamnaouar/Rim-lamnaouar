@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Programming languages**
 
-- 👀 I’m interested in coding
+- 👀 I'm interested in coding
 
 - 📫 How to reach me **rimlamnaouar@gmail.com**
 
