@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm @Rim-lamnaouar! I build things for the web.</h1>
 <h3 align="center" style="color:#ff3399">A passionate web developer from Morocco</h3>
-<img align="right" alt="coding" width="400"  src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<img align="right" alt="coding" width="400"  src="https://user-images.githubusercontent.com/46911773/157439202-122d4cfd-0c10-4b53-8038-6685855ac1ab.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rim-lamnaouar&label=Profile%20views&color=0e75b6&style=flat" alt="rim-lamnaouar" /> </p>
 
