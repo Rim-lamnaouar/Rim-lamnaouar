@@ -21,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rim-lamnaouar&show_icons=true&locale=en" alt="rim-lamnaouar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rim-lamnaouar&" alt="rim-lamnaouar" /></p>
+
+[![An image of @rimlamnaouar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rimlamnaouar)](https://holopin.io/@rimlamnaouar)
