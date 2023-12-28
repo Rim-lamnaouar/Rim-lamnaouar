@@ -2,8 +2,6 @@
 <h3 align="center" style="color:#ff3399">A passionate frontend developer from Morocco</h3>
 <img align="right" alt="coding" width="400"  src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-<p align="left"> <a href="https://github.com/Rim-lamnaouar"><img src="https://github.com/Rim-lamnaouar/?username=rim-lamnaouar" alt="rim-lamnaouar" /></a> </p>
-
 - 🌱 I’m currently learning **Programming languages**
 
 - 👨‍💻 All of my projects are available at [https://rimlamnaouar.netlify.app/](https://rimlamnaouar.netlify.app/)
